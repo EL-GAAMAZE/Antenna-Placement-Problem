@@ -39,4 +39,4 @@ Figure 3: Map of the suboptimal antenna placement solution.
 Please note that the genetic algorithm implemented in this project may take a few seconds to run due to the large data size being used. However, compared to exact methods, this is still a relatively fast solution for the antenna placement problem modeled as a set covering problem. The algorithm is optimized for speed while still providing high-quality solutions. 
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](/assets/license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
