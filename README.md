@@ -23,13 +23,13 @@ Run ```python plot.py``` to visualize the results on a map of Morocco.
 The antenna placement problem was modeled as a set covering problem and solved using a genetic algorithm implemented in Python. To handle the problem's constraints, a repairing strategy was used. The repairing strategy consists of modifying the infeasible solutions to meet the constraints by adding or removing elements until a feasible solution is found. This approach was chosen as it allows the algorithm to handle the constraints efficiently and effectively.
 
 # Screenshots
-![Cities](/assets/images/cities.png)
+![Cities](/Antenna-Placement-Problem/cities.png)
 Figure 1: Map of Moroccan cities.
 
-![Potential Sites](/assets/images/potential_sites.png)
+![Potential Sites](/Antenna-Placement-Problem/potential_sites.png)
 Figure 2: Map of potential antenna sites.
 
-![Solution](/assets/images/solution.png)
+![Solution](Antenna-Placement-Problem/solution.png)
 Figure 3: Map of the suboptimal antenna placement solution.
 
 
