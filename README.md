@@ -24,12 +24,18 @@ The antenna placement problem was modeled as a set covering problem and solved u
 
 # Screenshots
 ![Cities](https://github.com/EL-GAAMAZE/Antenna-Placement-Problem/blob/main/solution.png)
+
+
 Figure 1: Map of Moroccan cities.
 
-![Potential Sites](/Antenna-Placement-Problem/potential_sites.png)
+![Potential Sites](https://github.com/EL-GAAMAZE/Antenna-Placement-Problem/blob/main/potential_sites.png)
+
+
 Figure 2: Map of potential antenna sites.
 
-![Solution](Antenna-Placement-Problem/solution.png)
+![Solution](https://github.com/EL-GAAMAZE/Antenna-Placement-Problem/blob/main/solution.png)
+
+
 Figure 3: Map of the suboptimal antenna placement solution.
 
 
