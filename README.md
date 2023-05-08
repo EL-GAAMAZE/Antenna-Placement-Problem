@@ -3,7 +3,11 @@ This repository contains a Python implementation of a genetic algorithm to solve
 The problem is modeled as a set covering problem with Moroccan cities as the target coverage area. The genetic algorithm is implemented with three main scripts:
 
 genetic.py: Implements the genetic algorithm
+
+
 data.py: Transforms Moroccan city coordinates for use in the algorithm.
+
+
 plot.py: Visualizes the results and input data on a Moroccan map
 
 # Getting Started
