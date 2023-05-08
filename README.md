@@ -10,6 +10,7 @@ data.py: Transforms Moroccan city coordinates for use in the algorithm.
 
 plot.py: Visualizes the results and input data on a Moroccan map
 
+
 # Getting Started
 To run the algorithm, you will need to have Python 3 installed on your computer. The following steps will guide you through the process:
 
